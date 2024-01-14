@@ -8,7 +8,7 @@ def uniq_add(my_list=[]):
             continue
         else:
             uniq.append(i)
-    
+
     for element in uniq:
             result += element
     return (result)
